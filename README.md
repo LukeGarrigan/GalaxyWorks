@@ -4,4 +4,4 @@ All scripts are called through the slurm.sh script. This should be done incremen
 Follow all the steps in the slurm.sh script (New name to be chosen soon)
 
 
-Preprocessing scripts to be added.
+Preprocessing scripts have also been added in the preprocessing directory, an example of the preprocessing output can also be found there.
