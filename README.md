@@ -9,3 +9,9 @@ Preprocessing scripts have also been added in the preprocessing directory, an ex
 
 
 There is an alternative available also, in RNASeqAnalysisOther. Some of the scripts are designed for the old job scheduler, however the higher the steps the more likely they are to be slurm orientated, so I will update these scripts to cater purely for slurm use.
+
+
+Currently running the scripts on the leaf extract of Psidium guajava in primary human gingival fibroblasts. These are to be run with the human genome, currently on Bowtie getting strange results, may need to configure the version I'm using.
+
+
+
